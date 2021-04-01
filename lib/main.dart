@@ -36,7 +36,7 @@ class _MyAppState extends State<MyApp> {
             children: <Widget>[
               CarouselSlider(
                 options: CarouselOptions(
-                  height: 200.0,
+                  height: 190.0,
                   autoPlay: true,
                   autoPlayInterval: Duration(seconds: 3),
                   autoPlayAnimationDuration: Duration(milliseconds: 800),
